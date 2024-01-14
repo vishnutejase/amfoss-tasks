@@ -1,0 +1,2 @@
+# Competitive Programming
+This task proved to be the most challenging for me, requiring over four days to complete. I heavily relied on both ChatGPT and Google for assistance, and without these tools, completing the task would have been extremely difficult for me.

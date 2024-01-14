@@ -1,0 +1,2 @@
+# Hello World
+Exploring the fundamentals of numerous languages and putting them into practice was a valuable learning experience. Admittedly, I focused on learning just the essentials needed for the task, yet the overall experience was truly enriching.

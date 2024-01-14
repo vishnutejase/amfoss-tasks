@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vishnu Tejas</title>
+    <link>/</link>
+    <description>Recent content on Vishnu Tejas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jan 2024 20:32:42 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Me</title>
+      <link>/posts/whyme/</link>
+      <pubDate>Wed, 03 Jan 2024 20:32:42 +0530</pubDate>
+      
+      <guid>/posts/whyme/</guid>
+      <description>Technical Expertise With a solid foundation in programming languages like Python, Kotlin, C, and C#, coupled with hands-on experience in Jetpack Compose, I bring a diverse skill set to the table. My proficiency allows me to approach problems creatively and develop robust solutions.
+Problem-Solving Mindset I possess a problem-solving mindset honed through years of working on intricate projects. I thrive on challenges and approach each task with a blend of analytical thinking and innovation.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Wed, 03 Jan 2024 20:03:08 +0530</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Introduction Hey there! I&amp;rsquo;m Vishnu Tejas, a tech enthusiast with an insatiable curiosity for all things related to technology.
+Passion for Technology I breathe technology and am constantly seeking to expand my knowledge in this ever-evolving field. Whether it&amp;rsquo;s exploring the intricacies of software development, diving into the world of hardware, or analyzing the latest tech trends, I find joy in understanding how technology shapes our world.
+Skills Programming Languages I&amp;rsquo;m proficient in several programming languages, including:</description>
+    </item>
+    
+  </channel>
+</rss>

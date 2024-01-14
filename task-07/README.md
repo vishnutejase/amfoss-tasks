@@ -1,0 +1,2 @@
+# AK-47℃
+Similar to the previous HTML/CSS and JavaScript task, this assignment was remarkably straightforward, and I completed it in less than 5 hours. I was particularly pleased with the final result of the extension and i ended up keeping it installed in my browser.

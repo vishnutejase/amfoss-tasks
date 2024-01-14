@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>AK-47°C | Weather</title>
+        <link href="https://cdn.jsdelivr.net/npm/beercss@3.4.12/dist/cdn/beer.min.css" rel="stylesheet">
+    </head>
+    <body class="dark padding" style="width: 350px;">
+        <article class="padding">
+            <div class="row">
+                <div class="field large prefix round fill" style="width: 220px;">
+                    <input id="searchBox" type="text">
+                </div>
+                <button id="searchButton" class="circle large">
+                    <i name = "searchIcon" class="front">search</i>
+                </button>
+            </div>
+            <div class="padding">
+                <div class="center-align">
+                    <img id="weatherDisplay" class="responsive" src="none.png" style="height: 200px;width: 200px;">
+                </div>
+                <h5 id="tempLabel" class="max center-align large"></h5>
+                <h5 id="cityLabel" class="max center-align small">Enter a city</h5>
+                <h5 id="statusLabel" class="max center-align small"></h5>
+                <div class="row center-align">
+                    <div class="row left-align padding">
+                        <img id="humidityIcon" class="tiny" src="bgPlaceholder.png">
+                        <div class="column">
+                            <h6 id="humidityLabel" style="font-size:larger;"></h6>
+                            <p id="humidityText"></p>
+                        </div>
+                    </div>
+                    <div class="row right-align padding">
+                        <img id="windIcon" class="tiny" src="bgPlaceholder.png">
+                        <div class="column">
+                            <h6 id="windLabel" style="font-size:larger;"></h6>
+                            <p id="windText"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+          </article>
+          <script src="weather.js"></script>
+    </body>
+</html>

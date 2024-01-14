@@ -1,0 +1,2 @@
+# Cricket Vault
+Building this bot and getting it to work was extremely satisfying for me and I managed to learn quite a lot about building and hosting Discord bots. I hope that this experience will be quite usefull to me for making bots in the future.

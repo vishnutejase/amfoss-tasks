@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vishnu Tejas</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Vishnu Tejas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jan 2024 20:32:42 +0530</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Me</title>
+      <link>/posts/whyme/</link>
+      <pubDate>Wed, 03 Jan 2024 20:32:42 +0530</pubDate>
+      
+      <guid>/posts/whyme/</guid>
+      <description>Technical Expertise With a solid foundation in programming languages like Python, Kotlin, C, and C#, coupled with hands-on experience in Jetpack Compose, I bring a diverse skill set to the table. My proficiency allows me to approach problems creatively and develop robust solutions.
+Problem-Solving Mindset I possess a problem-solving mindset honed through years of working on intricate projects. I thrive on challenges and approach each task with a blend of analytical thinking and innovation.</description>
+    </item>
+    
+  </channel>
+</rss>

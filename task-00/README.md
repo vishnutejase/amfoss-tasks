@@ -1,0 +1,2 @@
+# Linux installation
+The process of installing Linux and fine-tuning it for my needs was truly enjoyable, and I found it to be a lot of fun. Opting for the KDE spin of Fedora, I took the opportunity to personalize the theme and implement numerous customizations.

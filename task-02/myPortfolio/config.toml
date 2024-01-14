@@ -1,0 +1,37 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Vishnu Tejas'
+theme = 'm10c'
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About Me"
+    url = "/about/"
+    weight = 2
+
+[params]
+  author = "Vishnu Tejas"
+  description = "Tech enthusiast with a versatile skill set in Python, Kotlin, Jetpack Compose, C, and C#, driven by a passion for innovation and continuous learning."
+  menu_item_separator = " • "
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/vishnutejase"
+  [[params.social]]
+    icon = "linkedin"
+    name = "Linkedin"
+    url = "https://linkedin.com/in/vishnutejase"
+
+# Red theme
+[params.style]
+  darkestColor = "#212529"
+  darkColor = "#1A1C1E"
+  lightColor = "#E3E2E6"
+  lightestColor = "#ffffff"
+  primaryColor = "#A6C8FF"

@@ -1,0 +1,2 @@
+# Terminal Wizard
+Engaging in the task was thoroughly enjoyable, especially since I had limited knowledge about Harry Potter and its associated lore. Turning to online sources, I sought the required details. The fact that I was already familiar and comfortable using the Linux terminal and commands proved to be immensely helpful.
