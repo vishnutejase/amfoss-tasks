@@ -3,5 +3,5 @@ Creating websites is something I've done before, and given my familiarity with H
 
 Link to a hosted instance of the website is given below:
 
- -<a href=" -[Imagine Dragons](https://vishnutejase.github.io/imaginedragons/)" target="_blank">Imagine Dragons</a>
+ -<a href="https://vishnutejase.github.io/imaginedragons/" target="_blank">Imagine Dragons</a>
 
