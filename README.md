@@ -31,8 +31,8 @@ The tasks appear to be well-organized, straightforward, and structured in terms 
 | [task-07](/task-07)     | AK-47℃                  | Completed           |
 | task-08                 | Poke-Search!             | Unattempted         |
 | [task-09](/task-09)     | GeoQuest                 | Partially Completed |
-| task-10                 | RuskOs                   | Unattempted         |
-| [task-11](/task-11)     |  TinkerCAD               | Completed           |
+| task-10                 | RuskOS                   | Unattempted         |
+| [task-11](/task-11)     | TinkerCAD                | Completed           |
 | task-12                 | Godot                    | Unattempted         |
 | [task-13](/task-13)     | Vim                      | Completed           |
 | [task-14](/task-14)     | Bandit                   | Completed           |
