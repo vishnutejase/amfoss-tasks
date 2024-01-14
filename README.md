@@ -1,7 +1,7 @@
 # amfoss-tasks
 
 <p align="center">
-  <img src="https://vishnutejase.github.io/avatar.jpg/150" alt="Sample Image" style="border-radius: 10px;">
+  <img src="task-02/myPortfolio/static/avatar.jpg/150" alt="Sample Image" style="border-radius: 10px;">
 </p>
 
 ## SELF INTRO
