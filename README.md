@@ -1,9 +1,5 @@
 # amfoss-tasks
 
-<p align="center">
-  <img src="task-02/myPortfolio/static/avatar.jpg" alt="Sample Image" style="border-radius: 10px;">
-</p>
-
 ## SELF INTRO
 Hi There!<br>
 I'm Vishnu Tejas E, a first-year Computer Science (AI) student at ASC. My passion for technology has been a constant in my life, and I've been exploring its various facets with great enthusiasm. My coding journey commenced four years ago with Python. From a young age, I was intrigued by technology, and one memorable experience was using a publicly available video downloading tool. However, discomfort with the excessive ads led me to learn Python and create my own video downloader. Since then, my journey has been nothing short of amazing.
