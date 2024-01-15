@@ -19,6 +19,7 @@ The tasks appear to be well-organized, straightforward, and structured in terms 
 
 
 
+
 | Tasks List              | Description              | Status              |
 |-------------------------|--------------------------|---------------------|
 | [task-00](/task-00)     | Install Linux            | Completed           |
