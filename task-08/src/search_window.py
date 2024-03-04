@@ -263,7 +263,6 @@ class SearchWindow(QWidget):
         pixmap = QPixmap(imgPath)
         self.imgLabel.setPixmap(pixmap.scaledToHeight(300))
 
-
 if __name__ == "__main__":
     import sys
     from PySide6.QtWidgets import QApplication
