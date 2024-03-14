@@ -42,7 +42,7 @@ class SearchWindow(QWidget):
         self.textbox.move(20, 20) 
         self.textbox.setGeometry(50, 50, 280, 40)
       
-        bgImg = QPixmap("task-08/assets/landing.jpg")
+        bgImg = QPixmap("assets/landing.jpg")
         palette = QPalette()
         palette.setBrush(QPalette.Window, bgImg)
         self.setPalette(palette)
@@ -116,7 +116,7 @@ class SearchWindow(QWidget):
     # Add the background provided in assets
 
     def displayDetails(self,pData):
-        pDex = QPixmap("task-08/assets/pokedex.jpg")
+        pDex = QPixmap("assets/pokedex.jpg")
         self.pokedex.setScaledContents(True)
         self.pokedex.setPixmap(pDex)
 
@@ -192,7 +192,7 @@ class SearchWindow(QWidget):
             pName = self.pData['name'].upper()
             imgUrl = self.pData['sprites']['other']['official-artwork']['front_default']
 
-            save_folder = "task-08/images/"
+            save_folder = "images/"
             os.makedirs(save_folder, exist_ok=True)
             dlPath = os.path.join(save_folder, f"{pName}.png")
 
@@ -222,7 +222,7 @@ class SearchWindow(QWidget):
         dialog = QDialog(self)
         dialog.setWindowTitle("Captured Pokémon")
         layout = QVBoxLayout()
-        imgFiles = [f for f in os.listdir("task-08/images/") if f.endswith(".png")]
+        imgFiles = [f for f in os.listdir("images/") if f.endswith(".png")]
 
         self.curImgIndex = 0
 
@@ -254,12 +254,12 @@ class SearchWindow(QWidget):
         dialog.exec_()
 
     def displayImg(self):
-        imgFiles = [f for f in os.listdir("task-08/images/") if f.endswith(".png")]
+        imgFiles = [f for f in os.listdir("images/") if f.endswith(".png")]
         if not imgFiles:
             self.imgLabel.clear()
             return
         curImgFile = imgFiles[self.curImgIndex]
-        imgPath = os.path.join("task-08/images/", curImgFile)
+        imgPath = os.path.join("images/", curImgFile)
         pixmap = QPixmap(imgPath)
         self.imgLabel.setPixmap(pixmap.scaledToHeight(300))
 
