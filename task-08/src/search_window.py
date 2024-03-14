@@ -184,7 +184,7 @@ class SearchWindow(QWidget):
             self.imgLabel.clear()
             self.imgLabel.setVisible(False) 
 
-    # 2 #
+    # 2 
     # Capture the Pokémon i.e. download the image.
 
     def capturePokemon(self):
